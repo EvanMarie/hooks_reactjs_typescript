@@ -1,0 +1,11 @@
+html,
+body {
+  margin: 0 auto;
+  padding: 0;
+  font-family: monospace;
+  background-color: deeppink;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
